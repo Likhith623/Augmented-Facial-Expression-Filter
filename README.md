@@ -1,5 +1,4 @@
-# Augmented-Facial-Expression-Filter
-# 🎭 Emotion-Based Real-Time Face Filter with OpenCV, MediaPipe & FER
+# 🎭 Augmented-Facial-Expression-Filter
 
 Welcome to **Emotion Filter**, an intelligent real-time facial augmentation project that detects human emotions via webcam and overlays expressive AR-style filters based on detected mood. This project combines the power of **computer vision**, **facial landmark tracking**, and **AI-driven emotion detection** to create an engaging and interactive experience.
 
