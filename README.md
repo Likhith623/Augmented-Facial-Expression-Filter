@@ -14,10 +14,6 @@ Welcome to **Emotion Filter**, an intelligent real-time facial augmentation proj
   - 😐 *Neutral* – Neutral face overlay (optional)
 - 📷 Seamless webcam integration via OpenCV.
 
-## 📽️ Demo
-
-> A live demo captures your facial expressions and intelligently augments your face with themed filters based on what you’re feeling. Try smiling, frowning, or acting surprised and watch the magic unfold!
-
 ## 🧰 Tech Stack
 
 | Technology | Purpose |
