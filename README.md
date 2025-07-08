@@ -31,4 +31,8 @@ Welcome to **Emotion Filter**, an intelligent real-time facial augmentation proj
 4. **Render Filter:** Based on the detected emotion, a corresponding transparent PNG filter is resized and overlaid on facial landmarks using precise alpha blending.
 
 
+## 👨‍💻 Author
+
+**Likhith Vasireddy**
+- GitHub: [@Likhith623](https://github.com/Likhith623)
 
